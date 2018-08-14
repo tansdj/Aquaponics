@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace AquaponicsMonitoringApp.DataAccessLayer
 {
     /// <summary>
-    /// Class Creator: Tanya
+    /// Class Creator: Tanya de Jager
     /// This class is used to give the necessary stored procedure names and their parameter values through to
     /// other developers, without necessarily giving them access to the database.
     /// </summary>
